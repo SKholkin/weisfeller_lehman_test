@@ -2,4 +2,4 @@
 Solving graph isomorphism problem with Weisfeller Lehman Test
 
 Not ready.
-Dataset generator model creating too weak non isomorphic instances.
+Dataset generator model creating too weak for non isomorphic instances.
