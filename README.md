@@ -1,5 +1,5 @@
 # weisfeller_lehman_test
-Solving graph isomorphism problem with Weisfeller Lehman Test
+Implementation of Weisfeller Lehman Test
 
 Not ready.
 Dataset generator model creating too weak 
